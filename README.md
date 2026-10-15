@@ -114,9 +114,9 @@ University: Jain (Deemed-to-be University)
 Campus: JGI Knowledge Campus, Jayanagar, Bengaluru
 
 👨‍💻 Author
-Name: Vishwajeet Singh
+Name: hritik harsh
 
-USN: 25MCAR0219
+USN: 25MCAR0297
 
 Course: Master of Computer Applications (MCA)
 
